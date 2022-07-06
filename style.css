@@ -194,6 +194,7 @@ hr{
 }
 /* Email ends */
 
+/* Footer stras */
 footer{
     text-align: center;
     background-color: black;
@@ -209,4 +210,35 @@ h4{
 .last-para{
     color: white;
 }
+
+/* Footerends */
+
+/* Relief starts */
+
+.relief{
+    display: flex;
+    padding: 50px 20px;
+    background-color: cornsilk;
+    margin-bottom: 90px;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.relief-img{
+    height: 400px;
+    margin-right: 80px;
+    border-radius: 10px;
+}
+
+.relief-para{
+    margin-right: 10%;
+    margin-top: 3%;
+}
+
+.relief-p{
+    text-align: justify;
+}
+/* Relief ends */
 
