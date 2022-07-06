@@ -1,8 +1,9 @@
 *{
     box-sizing: border-box;
     margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
 }
-
+/* Banner strts */
 .banner{
     background-image: url(image/donation12.png);
     background-repeat: no-repeat;
@@ -10,11 +11,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 90px;
 }
 
 .banner-div{
     text-align: center;
-    font-family: 'Poppins', sans-serif;
+    
     padding-left: 15%;
     padding-right: 15%;
 }
@@ -39,3 +41,80 @@
     color: white;
     border-radius: 10px;
 }
+
+/* Banner ends */
+
+/* Donate starts */
+
+.donate{
+    text-align: center;
+    margin-bottom: 90px;
+}
+
+.donate-h2{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    color: dimgray;
+}
+
+.donate-para{
+    padding-left: 28%;
+    padding-right: 28%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: rgb(51, 80, 80);
+}
+
+.donate-div2{
+    display: flex;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+.donate-h3{
+    font-size: 25px;
+    color: darkcyan;
+    background-color: azure;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+input{
+    border: none;
+    font-size: 16px;
+    text-align: center;
+    opacity: 0.5;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+hr{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 50px;
+}
+
+.special{
+    background-color: bisque;
+    border: 2px solid orangered;
+    color: orange;
+    font-family: 'Poppins', sans-serif;
+}
+
+button{
+    font-size: 18px;
+    background-color: coral;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+/* Donate ends */
