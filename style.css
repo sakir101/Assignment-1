@@ -118,3 +118,40 @@ button{
 }
 
 /* Donate ends */
+
+/* Donate Plan strts */
+
+.donate-plan-body{
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 30px;
+}
+
+.donate-plan-comm{
+    text-align: left;
+    padding: 20px 30px;
+}
+
+.food{
+    background-color: aquamarine;
+    margin-right: 15px;
+    
+}
+
+.shelter{
+    background-color: antiquewhite;
+    margin-right: 15px;
+    
+}
+
+.education{
+    background-color: cyan;
+    
+}
+
+.comm-img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* Donate plan ends */
