@@ -1,1 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
 
+.banner{
+    background-image: url(image/donation12.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-div{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.banner-h1{
+    font-size: 60px;
+    color: rgb(231, 227, 227);
+}
+
+.banner-para{
+    color: white;
+    font-size: 18px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.banner-a{
+    text-decoration: none;
+    font-size: 22px;
+    background-color: coral;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+}
