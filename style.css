@@ -192,4 +192,21 @@ hr{
     padding: 60px 70px;
     border-radius: 10px;
 }
+/* Email ends */
+
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 50px;
+}
+
+h4{
+    font-family: 'Lobster', cursive;
+    color: orange;
+    font-size: 30px;
+}
+
+.last-para{
+    color: white;
+}
 
